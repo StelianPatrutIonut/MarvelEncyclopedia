@@ -90,3 +90,8 @@ El frontend estará disponible en: http://127.0.0.1:5500
 Autor
 
 Desarrollado por Stelian.
+
+
+![image](https://github.com/user-attachments/assets/efbfe1ad-5e01-4921-bff9-d4bbe737ec55)
+
+
