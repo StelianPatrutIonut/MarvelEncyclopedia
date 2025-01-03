@@ -14,8 +14,8 @@ import java.util.Map;
 @CrossOrigin(origins = "http://localhost:5500")
 public class ControllerPersonaje {
 
-    private final String PUBLIC_KEY = "17464ecd5ccd0fc112ce619655d1e4e0";
-    private final String PRIVATE_KEY = "7797ca893a10bdde1fd7a1f7b5b6ba0938252538";
+    private final String PUBLIC_KEY = "tu clave publica";
+    private final String PRIVATE_KEY = "tu clave privada";
 
     @GetMapping("/{name}")
     public ResponseEntity<?> getCharacter(@PathVariable String name){
