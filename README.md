@@ -93,5 +93,7 @@ Desarrollado por Stelian.
 
 
 ![image](https://github.com/user-attachments/assets/efbfe1ad-5e01-4921-bff9-d4bbe737ec55)
+![image](https://github.com/user-attachments/assets/b01b4581-8ec4-4c35-85b9-69b574674706)
+
 
 
